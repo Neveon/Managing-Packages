@@ -1,6 +1,7 @@
 {
 	"author": "Neil T",
 	"description": "A project to learn the workings of npm",
+	"keywords": ["descriptive","related","words","about","project"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
